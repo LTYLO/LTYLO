@@ -80,7 +80,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LTYLO/LTYLO/output/snake.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/LTYLO/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
