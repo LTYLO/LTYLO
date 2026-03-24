@@ -2,7 +2,7 @@
 <!--  NODE ········ LTYLO                                           -->
 <!--  CLASS ······· FULL STACK DEVELOPER                           -->
 <!--  ORIGIN ······ COLOMBIA 🇨🇴                                    -->
-<!--  BUILD ······· FINAL · v5.0                                   -->
+<!--  BUILD ······· FINAL · v6.0                                   -->
 <!-- ============================================================== -->
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░ HEADER ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
@@ -37,7 +37,7 @@
 <tr>
 <td width="55%" valign="top">
 
-### `◈ Profile`
+### `◈ Profile` <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00D4FF&vCenter=true&width=160&height=30&lines=LTYLO;LTYLO.;LTYLO..;LTYLO...;LTYLO" />
 
 <img src="https://img.shields.io/badge/LTYLO-Full_Stack_Developer-00D4FF?style=for-the-badge&labelColor=050510" /><br/>
 <img src="https://img.shields.io/badge/📍-Colombia_🇨🇴-7B2FBE?style=for-the-badge&labelColor=050510" />
@@ -65,7 +65,7 @@
 </td>
 <td width="45%" valign="top" align="right">
 
-<img height="220" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNyeWJnMGF6OXI4amxzdGdpcHc4a2Qxd3pjN2Zha3hjc3BvM2N3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A6EASSZkbOs0Cu8Fim/giphy.gif"/>
+<img height="220" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhwYXo1dmRqcHBwb2diMzJqNjNqcTBhdmNodWI3bmwyaDVkejZudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A6EASSZkbOs0Cu8Fim/giphy.gif"/>
 
 </td>
 </tr>
@@ -83,60 +83,83 @@
 
 ### `◈ Tech Stack`
 
-![React](https://img.shields.io/badge/React-050510?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-050510?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-050510?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-050510?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Tailwind](https://img.shields.io/badge/Tailwind-050510?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![HTML](https://img.shields.io/badge/HTML-050510?style=flat-square&logo=html5&logoColor=E34F26)
-![Python](https://img.shields.io/badge/Python-050510?style=flat-square&logo=python&logoColor=3776AB)
-![Node.js](https://img.shields.io/badge/Node.js-050510?style=flat-square&logo=nodedotjs&logoColor=339933)
-![C#](https://img.shields.io/badge/C%23-050510?style=flat-square&logo=csharp&logoColor=239120)
-![Kotlin](https://img.shields.io/badge/Kotlin-050510?style=flat-square&logo=kotlin&logoColor=7F52FF)
-![C++](https://img.shields.io/badge/C++-050510?style=flat-square&logo=cplusplus&logoColor=00599C)
-![Docker](https://img.shields.io/badge/Docker-050510?style=flat-square&logo=docker&logoColor=2496ED)
-![Firebase](https://img.shields.io/badge/Firebase-050510?style=flat-square&logo=firebase&logoColor=FFCA28)
-![MongoDB](https://img.shields.io/badge/MongoDB-050510?style=flat-square&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-050510?style=flat-square&logo=mysql&logoColor=4479A1)
-![Linux](https://img.shields.io/badge/Linux-050510?style=flat-square&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-050510?style=flat-square&logo=git&logoColor=F05032)
-![Blender](https://img.shields.io/badge/Blender-050510?style=flat-square&logo=blender&logoColor=E87D0D)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="csharp logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45" alt="androidstudio logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="45" alt="blender logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="45" alt="jetpackcompose logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="45" alt="kotlin logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="45" alt="matlab logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo" />
+</div>
 
 </td>
 
-<!-- CURRENT FOCUS -->
+<!-- CONNECT -->
 <td width="4%"></td>
 <td width="48%" valign="top">
 
-### `◈ Current Focus`
-
-**☁️ Mastering Cloud Architecture**
-<br/><sub>Learning advanced cloud system design</sub>
-
-<br/>
-
-**🚀 Shipping a SaaS Product**
-<br/><sub>Building a SaaS platform from scratch</sub>
-
-<br/>
-
-**🔓 Deep Diving into Open Source**
-<br/><sub>Exploring and contributing to open source</sub>
-
-<br/>
-
-**📱 Leveling Up Mobile Dev with Kotlin**
-<br/><sub>Improving mobile development skills</sub>
-
-<br/>
-
 ### `◈ Connect`
 
-<a href="https://youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-050510?style=flat-square&logo=youtube&logoColor=FF0000" /></a>
-<a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-050510?style=flat-square&logo=instagram&logoColor=E4405F" /></a>
-<a href="mailto:tucorreo@gmail.com"><img src="https://img.shields.io/badge/Gmail-050510?style=flat-square&logo=gmail&logoColor=D14836" /></a>
-<a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-050510?style=flat-square&logo=linkedin&logoColor=0077B5" /></a>
-<a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-050510?style=flat-square&logo=discord&logoColor=7289DA" /></a>
+<br/>
+
+<div align="center">
+
+<a href="https://youtube.com/" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=050510" />
+</a>
+
+<br/><br/>
+
+<a href="https://instagram.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=050510" />
+</a>
+
+<br/><br/>
+
+<a href="mailto:tucorreo@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050510" />
+</a>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050510" />
+</a>
+
+<br/><br/>
+
+<a href="https://discord.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=050510" />
+</a>
+
+</div>
 
 </td>
 </tr>
