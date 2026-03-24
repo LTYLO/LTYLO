@@ -8,7 +8,7 @@
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░ HEADER ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=LTYLO&fontSize=100&color=0:050510,40:0A0F2E,100:050510&stroke=00D4FF&strokeWidth=2&fontColor=00D4FF&animation=fadeIn&desc=Full+Stack+Developer+—+Building+Digital+Systems&descSize=15&descAlignY=80&descAlign=50&descFontColor=7B7FBE" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=LTYLO&fontSize=100&color=0:050510,40:0A0F2E,100:050510&stroke=00D4FF&strokeWidth=2&fontColor=00D4FF&animation=twinkling&desc=Full+Stack+Developer+—+Building+Digital+Systems&descSize=15&descAlignY=80&descAlign=50&descFontColor=7B7FBE" width="100%"/>
 </div>
 
 <!-- TYPING -->
@@ -35,9 +35,9 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-### `◈ Profile` <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00D4FF&vCenter=true&width=160&height=30&lines=LTYLO;LTYLO.;LTYLO..;LTYLO...;LTYLO" />
+### `◈ Profile`
 
 <img src="https://img.shields.io/badge/LTYLO-Full_Stack_Developer-00D4FF?style=for-the-badge&labelColor=050510" /><br/>
 <img src="https://img.shields.io/badge/📍-Colombia_🇨🇴-7B2FBE?style=for-the-badge&labelColor=050510" />
@@ -63,9 +63,9 @@
 ![](https://img.shields.io/badge/🗿-3D-00D4FF?style=flat-square&labelColor=050510)
 
 </td>
-<td width="45%" valign="top" align="right">
+<td width="50%" valign="middle" align="center">
 
-<img height="220" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhwYXo1dmRqcHBwb2diMzJqNjNqcTBhdmNodWI3bmwyaDVkejZudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A6EASSZkbOs0Cu8Fim/giphy.gif"/>
+<img height="220" src="https://i.giphy.com/media/A6EASSZkbOs0Cu8Fim/giphy.gif"/>
 
 </td>
 </tr>
@@ -79,87 +79,86 @@
 <tr>
 
 <!-- TECH STACK -->
-<td width="48%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### `◈ Tech Stack`
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="csharp logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45" alt="androidstudio logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="45" alt="blender logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="45" alt="jetpackcompose logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="45" alt="kotlin logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="45" alt="matlab logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo" />
-</div>
+<br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="csharp" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45" alt="androidstudio" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="45" alt="blender" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="45" alt="jetpackcompose" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="45" alt="kotlin" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="45" alt="matlab" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql" />
+
+<br/>
 
 </td>
 
 <!-- CONNECT -->
-<td width="4%"></td>
-<td width="48%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### `◈ Connect`
 
 <br/>
 
-<div align="center">
-
 <a href="https://youtube.com/" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=050510" />
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=050510" height="35"/>
 </a>
 
 <br/><br/>
 
 <a href="https://instagram.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=050510" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=050510" height="35"/>
 </a>
 
 <br/><br/>
 
 <a href="mailto:tucorreo@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050510" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050510" height="35"/>
 </a>
 
 <br/><br/>
 
 <a href="https://linkedin.com/in/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050510" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050510" height="35"/>
 </a>
 
 <br/><br/>
 
 <a href="https://discord.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=050510" />
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=050510" height="35"/>
 </a>
 
-</div>
+<br/>
 
 </td>
 </tr>
