@@ -1,121 +1,194 @@
-<!-- HEADER WAVE ANIMADO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Kevin%20%F0%9F%87%A8%F0%9F%87%B4&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&theme=tokyonight&animation=fadeIn" />
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ██╗  ████████╗██╗   ██╗██╗      ██████╗               -->
+<!-- ██║  ╚══██╔══╝╚██╗ ██╔╝██║     ██╔═══██╗              -->
+<!-- ██║     ██║    ╚████╔╝ ██║     ██║   ██║              -->
+<!-- ██║     ██║     ╚██╔╝  ██║     ██║   ██║              -->
+<!-- ███████╗██║      ██║   ███████╗╚██████╔╝              -->
+<!-- ╚══════╝╚═╝      ╚═╝   ╚══════╝ ╚═════╝               -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-<!-- TYPING SVG ANIMADO -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Kevin+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Orgullosamente+Colombiano+%F0%9F%87%A8%F0%9F%87%B4;Apasionado+por+el+c%C3%B3digo+%F0%9F%92%BB;Siempre+aprendiendo+algo+nuevo+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-</p>
+<!-- HEADER CYBERPUNK -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=LTYLO&fontSize=80&color=0:8B00FF,100:00F7FF&stroke=00F7FF&strokeWidth=2&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+</div>
+
+<!-- TYPING SVG -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=💀+Bienvenido+a+mi+perfil...;🎮+Gamer+%7C+Developer+%7C+Builder;⚡+Full+Stack+Developer+🚀;🇨🇴+Orgullosamente+Colombiano;🧠+Turning+ideas+into+reality..." />
+</div>
+
+<!-- BADGES VISITANTES + ESTADO -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=LTYLO&style=for-the-badge&color=8B00FF&label=👾+VISITAS" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&logo=statuspage&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MODO-BEAST-FF003C?style=for-the-badge&logo=gamepad&logoColor=white" />
+</div>
+
+<br/>
 
 ---
 
-<!-- INTRO + GIF -->
-<h2 align="left">Hola soy Kevin 👋🇨🇴 Orgullosamente Colombiano</h2>
+<!-- ABOUT ME ESTILO TERMINAL -->
+<div align="center">
+  <h2>🖥️ <code>~/about-me</code></h2>
+</div>
 
-<img align="right" height="222" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNyeWJnMGF6OXI4amxzdGdpcHc4a2Qxd3pjN2Zha3hjc3BvM2N3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A6EASSZkbOs0Cu8Fim/giphy.gif" />
-
-```python
-class Kevin:
-    nombre     = "Kevin"
-    pais       = "Colombia 🇨🇴"
-    rol        = "Full Stack Developer 🚀"
-    stack      = ["React", "Python", "Kotlin", "C#"]
-    pasiones   = ["código", "videojuegos", "3D", "IA"]
-    disponible = True  # ¡Abierto a oportunidades!
-
-    def saludo(self):
-        return "¡Bienvenido a mi perfil! 👾"
+```bash
+╔══════════════════════════════════════════════════════════╗
+║                    LTYLO — DEVELOPER                     ║
+╠══════════════════════════════════════════════════════════╣
+║  > whoami         LTYLO · Full Stack Developer 🚀        ║
+║  > location       Colombia 🇨🇴                           ║
+║  > status         Building awesome things... ⚡          ║
+║  > passion        Code · Design · Gaming 🎮              ║
+║  > learning       Always leveling up 🧠                  ║
+║  > available      Open to opportunities ✅               ║
+╚══════════════════════════════════════════════════════════╝
 ```
-
-<br clear="right"/>
 
 ---
 
 <!-- REDES SOCIALES -->
-<div align="left">
+<div align="center">
+  <h2>🌐 <code>~/connect</code></h2>
+</div>
+
+<div align="center">
   <a href="https://youtube.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube" />
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35"/>
   </a>
-  <img width="6"/>
+  &nbsp;
   <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35"/>
   </a>
-  <img width="6"/>
+  &nbsp;
   <a href="mailto:tucorreo@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
   </a>
-  <img width="6"/>
+  &nbsp;
   <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 </div>
 
 ---
 
-<!-- TECNOLOGÍAS — SKILL ICONS (más visual) -->
-<h3 align="left">🛠️ Tecnologías & Herramientas</h3>
+<!-- TECH STACK -->
+<div align="center">
+  <h2>🛠️ <code>~/tech-stack</code></h2>
+</div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,python,cs,kotlin,cpp,docker,firebase,mongodb,mysql,linux,blender,androidstudio,git,github,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,cs,kotlin,cpp&perline=8" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,firebase,mongodb,mysql,linux,blender,androidstudio,git&perline=8" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=github,vscode,figma,html,css,nextjs,tailwind,redux&perline=8" />
 </div>
 
 ---
 
 <!-- GITHUB STATS -->
-<h3 align="center">📊 GitHub Stats</h3>
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <h2>📊 <code>~/stats</code></h2>
 </div>
 
-<!-- STREAK STATS -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LTYLO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8B00FF&text_color=FFFFFF&ring_color=00F7FF" />
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTYLO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=8" />
 </div>
 
----
-
-<!-- ACTIVITY GRAPH -->
-<h3 align="center">📈 Actividad de Contribuciones</h3>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://streak-stats.demolab.com/?user=LTYLO&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=8B00FF&fire=FF003C&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=888888" />
 </div>
 
 ---
 
 <!-- TROFEOS -->
-<h3 align="center">🏆 Trofeos GitHub</h3>
+<div align="center">
+  <h2>🏆 <code>~/trophies</code></h2>
+</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LTYLO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 
 ---
 
-<!-- SNAKE GAME (contribuciones animadas) -->
-<h3 align="center">🐍 Contribuciones</h3>
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <h2>📈 <code>~/activity</code></h2>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LTYLO&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=8B00FF&point=FF003C&area=true&area_color=8B00FF" width="95%"/>
+</div>
+
+---
+
+<!-- SNAKE ANIMADA -->
+<div align="center">
+  <h2>🐍 <code>~/contributions</code></h2>
+</div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LTYLO/LTYLO/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LTYLO/LTYLO/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake animation" src="https://raw.githubusercontent.com/LTYLO/LTYLO/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
 
-> ⚙️ Para activar la serpiente, crea un workflow en `.github/workflows/snake.yml` con GitHub Actions.
+<details>
+<summary>⚙️ <b>Cómo activar la serpiente (GitHub Actions)</b></summary>
+<br/>
+
+Crea el archivo `.github/workflows/snake.yml` con este contenido:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+</details>
 
 ---
 
-<!-- CONTADOR DE VISITAS -->
+<!-- QUOTE RANDOM -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=00d9ff&style=for-the-badge&label=VISITAS+AL+PERFIL" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
----
+<br/>
 
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=tokyonight" />
+<!-- FOOTER CYBERPUNK -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:8B00FF,100:00F7FF&section=footer&reversal=true" width="100%"/>
+</div>
