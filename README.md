@@ -1,168 +1,107 @@
 <!--
-███╗   ███╗ █████╗ ████████╗██████╗ ██╗██╗  ██╗
-████╗ ████║██╔══██╗╚══██╔══╝██╔══██╗██║╚██╗██╔╝
-██╔████╔██║███████║   ██║   ██████╔╝██║ ╚███╔╝
-██║╚██╔╝██║██╔══██║   ██║   ██╔══██╗██║ ██╔██╗
-██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║██║██╔╝ ██╗
-╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
-// SYSTEM: ACTIVE | NODE: LTYLO | ENCRYPTION: ON
-// "There is no spoon." — The Oracle
-// > IF YOU ARE READING THIS... YOU ARE ALREADY IN.
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ MATRIX OS v3.1 — NODE: LTYLO — ONLINE      █
+█ "There is no spoon."        — The Oracle   █
+█ // YOU ARE ALREADY INSIDE //               █
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 -->
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   /boot — SYSTEM INIT                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
+<!-- ══════════════════════════ HEADER ══════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=LTYLO.exe&fontSize=75&color=0:000000,100:000000&stroke=00FF41&strokeWidth=3&fontColor=00FF41&animation=fadeIn&desc=SYSTEM%20ONLINE%20%7C%20ACCESS%20GRANTED&descSize=16&descAlignY=75&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=LTYLO&fontSize=90&color=0:000000,100:000000&stroke=00FF41&strokeWidth=3&fontColor=00FF41&animation=fadeIn&desc=%5B+SYSTEM+ONLINE+%7C+ACCESS+GRANTED+%7C+NODE+ACTIVE+%5D&descSize=13&descAlignY=78&descAlign=50&descFontColor=00AA2F" width="100%"/>
 </div>
 
-<!-- TYPING — BOOT SEQUENCE -->
+<!-- BOOT SEQUENCE TYPING -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&width=750&lines=%5BSYSTEM%5D+Initializing+matrix+interface...;%5BBOOT%5D+Loading+kernel+modules...+OK;%5BACCESS%5D+Identity+node+LTYLO+detected;%5BSCAN%5D+Threat+level%3A+NONE+%E2%80%94+Access+GRANTED+%E2%9C%85;%5BMATRIX%5D+Welcome+back%2C+developer.;%3E+whoami+%E2%86%92+Full+Stack+Developer+%F0%9F%9A%80;%3E+location+%E2%86%92+Colombia+%F0%9F%87%A8%F0%9F%87%B4;%3E+status+%E2%86%92+BUILDING+COOL+THINGS..._%3B%5BWARNING%5D+You+are+now+inside+the+Matrix." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=15&duration=1800&pause=600&color=00FF41&center=true&vCenter=true&width=750&lines=%5BBOOT%5D+Initializing+LTYLO+system...+OK;%5BAUTH%5D+Identity+verified+%E2%80%94+Welcome+back+%F0%9F%9F%A2;%5BSCAN%5D+Threat+level%3A+ZERO+%E2%80%94+clearance+GRANTED+%E2%9C%85;%5BMATRIX%5D+Full+Stack+Developer+%F0%9F%9A%80;%5BNODE%5D+Colombia+%F0%9F%87%A8%F0%9F%87%B4+%7C+Level+7+Developer;%5BSYS%5D+Building+the+future%2C+one+commit+at+a+time..._;%5BWARNING%5D+You+are+now+inside+the+Matrix." />
 </div>
 
-<!-- STATUS BADGES -->
+<!-- SYSTEM BADGES -->
 <div align="center">
-  <img src="https://img.shields.io/badge/%5BNODE%5D-LTYLO-00FF41?style=flat-square&logo=matrix&logoColor=00FF41&labelColor=000000" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/%5BSTATUS%5D-ONLINE-00FF41?style=flat-square&logoColor=00FF41&labelColor=000000" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/%5BLEVEL%5D-7%20DEVELOPER-00FF41?style=flat-square&labelColor=000000&color=00FF41" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/%5BENCRYPT%5D-AES--256-00FF41?style=flat-square&labelColor=000000&color=00FF41" />
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=LTYLO&style=flat-square&color=00FF41&label=%5BSCANS%5D&labelColor=000000" />
+  <img src="https://img.shields.io/badge/NODE-LTYLO-00FF41?style=for-the-badge&labelColor=000000&color=00FF41" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=000000&color=00FF41" />
+  <img src="https://img.shields.io/badge/LEVEL-7_DEVELOPER-00FF41?style=for-the-badge&labelColor=000000&color=00FF41" />
+  <img src="https://img.shields.io/badge/ORIGIN-COLOMBIA_🇨🇴-00FF41?style=for-the-badge&labelColor=000000&color=00FF41" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=LTYLO&style=for-the-badge&color=00FF41&label=PROFILE+SCANS&labelColor=000000" />
+  <img src="https://img.shields.io/badge/ENCRYPT-AES--256-00FF41?style=for-the-badge&labelColor=000000&color=00FF41" />
+  <img src="https://img.shields.io/badge/THREAT-NONE-00FF41?style=for-the-badge&labelColor=000000&color=00FF41" />
 </div>
 
 <br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                 /identity — WHO AM I                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════ /identity — WHOAMI ══════════════════════ -->
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  MATRIX OS v3.1 — NODE IDENTITY PROTOCOL                    ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  > boot system................ [██████████] 100% COMPLETE   ║
-║  > decrypt identity........... [██████████] DECRYPTED       ║
-║  > load profile............... [██████████] LOADED          ║
-║                                                              ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  $ whoami                                                    ║
-║  ┌─────────────────────────────────────────────────────┐    ║
-║  │  NODE     : LTYLO                                   │    ║
-║  │  CLASS    : Full Stack Developer 🚀                 │    ║
-║  │  ORIGIN   : Colombia 🇨🇴                            │    ║
-║  │  LEVEL    : 7 — [████████░░] SENIOR UNLOCKING       │    ║
-║  │  STATUS   : ACTIVE — Building the future ⚡         │    ║
-║  │  MISSION  : Turn ideas into code                    │    ║
-║  │  THREAT   : NONE — clearance GRANTED ✅             │    ║
-║  └─────────────────────────────────────────────────────┘    ║
-║                                                              ║
-║  $ cat /etc/motd                                             ║
-║  > "The Matrix has you... but you have the code."           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img align="right" height="210" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNyeWJnMGF6OXI4amxzdGdpcHc4a2Qxd3pjN2Zha3hjc3BvM2N3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A6EASSZkbOs0Cu8Fim/giphy.gif"/>
+
+### `> whoami`
+
+![NODE](https://img.shields.io/badge/NODE-LTYLO-00FF41?style=flat-square&labelColor=000000)
+![CLASS](https://img.shields.io/badge/CLASS-Full_Stack_Developer_🚀-00FF41?style=flat-square&labelColor=000000)
+![ORIGIN](https://img.shields.io/badge/ORIGIN-Colombia_🇨🇴-00FF41?style=flat-square&labelColor=000000)
+![LEVEL](https://img.shields.io/badge/LEVEL-7_▰▰▰▰▰▰▰▰▱▱_SENIOR_UNLOCKING-00FF41?style=flat-square&labelColor=000000)
+![MISSION](https://img.shields.io/badge/MISSION-Turn_ideas_into_code-00FF41?style=flat-square&labelColor=000000)
+![OPEN](https://img.shields.io/badge/AVAILABLE-Open_to_opportunities_✅-00FF41?style=flat-square&labelColor=000000)
+
+### `> cat /etc/motd`
+> *"The Matrix has you... but you have the code."*
+
+<br clear="right"/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               /connect — NETWORK NODES                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════ /connect — NETWORK ══════════════════════ -->
 
-```
-[NETWORK] Scanning available connection nodes...
-[FOUND]   4 channels detected — establishing links...
-```
+### `> scan --network-nodes`
 
-<div align="center">
+<div align="left">
   <a href="https://youtube.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=%5BCHANNEL%5D+YouTube&logo=youtube&label=&color=00FF41&logoColor=000000&labelColor=000000&style=for-the-badge" height="32"/>
+    <img src="https://img.shields.io/badge/%5BCHANNEL%5D_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=000000&labelColor=00FF41" height="32"/>
   </a>
-  &nbsp;
   <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=%5BCHANNEL%5D+Instagram&logo=instagram&label=&color=00FF41&logoColor=000000&labelColor=000000&style=for-the-badge" height="32"/>
+    <img src="https://img.shields.io/badge/%5BCHANNEL%5D_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=00FF41" height="32"/>
   </a>
-  &nbsp;
   <a href="mailto:tucorreo@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=%5BCHANNEL%5D+Gmail&logo=gmail&label=&color=00FF41&logoColor=000000&labelColor=000000&style=for-the-badge" height="32"/>
+    <img src="https://img.shields.io/badge/%5BCHANNEL%5D_Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=00FF41" height="32"/>
   </a>
-  &nbsp;
   <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=%5BCHANNEL%5D+LinkedIn&logo=linkedin&label=&color=00FF41&logoColor=000000&labelColor=000000&style=for-the-badge" height="32"/>
+    <img src="https://img.shields.io/badge/%5BCHANNEL%5D_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=00FF41" height="32"/>
   </a>
-  &nbsp;
   <a href="https://discord.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=%5BCHANNEL%5D+Discord&logo=discord&label=&color=00FF41&logoColor=000000&labelColor=000000&style=for-the-badge" height="32"/>
+    <img src="https://img.shields.io/badge/%5BCHANNEL%5D_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=000000&labelColor=00FF41" height="32"/>
   </a>
 </div>
 
-```
-[LINK] All nodes connected successfully.
-```
-
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                /skills — LOAD MODULES                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════ /skills — MODULES ══════════════════════ -->
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  $ load skills --verbose                                     ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  [MODULE] Frontend......... JavaScript · React · HTML · CSS ║
-║           LOAD STATUS..... [██████████] 100% ✅             ║
-║                                                              ║
-║  [MODULE] Backend.......... Python · Node.js · C# · C++     ║
-║           LOAD STATUS..... [█████████░] 92%  ✅             ║
-║                                                              ║
-║  [MODULE] Mobile........... Kotlin · Jetpack Compose        ║
-║           LOAD STATUS..... [████████░░] 80%  ✅             ║
-║                                                              ║
-║  [MODULE] DevOps........... Docker · Linux · Git · Firebase ║
-║           LOAD STATUS..... [███████░░░] 75%  🔄             ║
-║                                                              ║
-║  [MODULE] Database......... MongoDB · MySQL                  ║
-║           LOAD STATUS..... [████████░░] 85%  ✅             ║
-║                                                              ║
-║  [MODULE] 3D/Design........ Blender · Figma                 ║
-║           LOAD STATUS..... [██████░░░░] 65%  🔄             ║
-║                                                              ║
-║  [SYSTEM] All critical modules loaded. System READY.        ║
-╚══════════════════════════════════════════════════════════════╝
-```
+### `> load skills --all`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,cs,kotlin,cpp&theme=dark&perline=8" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=docker,firebase,mongodb,mysql,linux,blender,androidstudio,git&theme=dark&perline=8" />
+
+| MODULE | STACK | STATUS |
+|--------|-------|--------|
+| ![](https://img.shields.io/badge/FRONTEND-00FF41?style=flat-square&labelColor=000000) | ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=000) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=fff) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=fff) | ![](https://img.shields.io/badge/▰▰▰▰▰▰▰▰▰▰_100%25-00FF41?style=flat-square&labelColor=000000) |
+| ![](https://img.shields.io/badge/BACKEND-00FF41?style=flat-square&labelColor=000000) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff) ![NodeJS](https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=fff) ![CS](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=fff) ![CPP](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=fff) | ![](https://img.shields.io/badge/▰▰▰▰▰▰▰▰▰▱__92%25-00FF41?style=flat-square&labelColor=000000) |
+| ![](https://img.shields.io/badge/MOBILE-00FF41?style=flat-square&labelColor=000000) | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=fff) ![Compose](https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=fff) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=androidstudio&logoColor=fff) | ![](https://img.shields.io/badge/▰▰▰▰▰▰▰▰▱▱__80%25-00FF41?style=flat-square&labelColor=000000) |
+| ![](https://img.shields.io/badge/DEVOPS-00FF41?style=flat-square&labelColor=000000) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff) | ![](https://img.shields.io/badge/▰▰▰▰▰▰▰▱▱▱__75%25-00FF41?style=flat-square&labelColor=000000) |
+| ![](https://img.shields.io/badge/DATABASE-00FF41?style=flat-square&labelColor=000000) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff) | ![](https://img.shields.io/badge/▰▰▰▰▰▰▰▰▱▱__85%25-00FF41?style=flat-square&labelColor=000000) |
+| ![](https://img.shields.io/badge/3D_DESIGN-00FF41?style=flat-square&labelColor=000000) | ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=fff) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff) | ![](https://img.shields.io/badge/▰▰▰▰▰▰▱▱▱▱__65%25-00FF41?style=flat-square&labelColor=000000) |
+
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                /stats — SYSTEM METRICS                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════ /stats — METRICS ══════════════════════ -->
 
-```
-[METRICS] Pulling live data from GitHub nodes...
-[DECRYPT] Data stream decrypted — rendering output...
-```
+### `> pull stats --live --decrypt`
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=LTYLO&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41&ring_color=00FF41&include_all_commits=true&count_private=true" />
-  &nbsp;
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTYLO&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LTYLO&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00AA2F&ring_color=00FF41&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTYLO&layout=donut&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00AA2F&langs_count=8" />
 </div>
 
 <div align="center">
@@ -171,29 +110,19 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               /trophies — ACHIEVEMENT LOG                  -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════ /trophies ══════════════════════ -->
 
-```
-[SCAN] Loading achievement registry...
-[FOUND] Unlocked nodes detected:
-```
+### `> query achievements --all`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LTYLO&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LTYLO&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               /activity — SYSTEM LOGS                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════ /activity ══════════════════════ -->
 
-```
-[LOG] Streaming contribution activity...
-[MONITOR] Real-time commit graph — LIVE FEED:
-```
+### `> monitor activity --stream`
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LTYLO&theme=high-contrast&hide_border=true&bg_color=000000&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=003B00" width="95%"/>
@@ -201,14 +130,9 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--            /contributions — MATRIX SNAKE                   -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════ /snake ══════════════════════ -->
 
-```
-[SYSTEM] Rendering contribution matrix...
-[VISUAL] Snake protocol engaged — tracing activity nodes:
-```
+### `> render contribution-matrix --visual`
 
 <div align="center">
   <picture>
@@ -220,53 +144,49 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--            /mission — CURRENT OBJECTIVES                   -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════ /mission ══════════════════════ -->
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  [MISSION CONTROL] — Active objectives                      ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  ► MISSION_01 : Master cloud architecture        [ACTIVE]   ║
-║  ► MISSION_02 : Ship a SaaS product              [ACTIVE]   ║
-║  ► MISSION_03 : Contribute to open source        [ACTIVE]   ║
-║  ► MISSION_04 : Level up in system design        [ACTIVE]   ║
-║  ► MISSION_05 : ???????????????????              [LOCKED]   ║
-║                                                              ║
-║  [AI_SYS] "The path of the developer is chosen,            ║
-║            not assigned. Keep building."                    ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+### `> cat missions.log`
+
+| ID | OBJECTIVE | STATUS |
+|----|-----------|--------|
+| 01 | Master cloud architecture | ![](https://img.shields.io/badge/ACTIVE-00FF41?style=flat-square&labelColor=000000) |
+| 02 | Ship a SaaS product | ![](https://img.shields.io/badge/ACTIVE-00FF41?style=flat-square&labelColor=000000) |
+| 03 | Contribute to open source | ![](https://img.shields.io/badge/ACTIVE-00FF41?style=flat-square&labelColor=000000) |
+| 04 | Level up in system design | ![](https://img.shields.io/badge/ACTIVE-00FF41?style=flat-square&labelColor=000000) |
+| 05 | ??????????????????? | ![](https://img.shields.io/badge/LOCKED-FF0000?style=flat-square&labelColor=000000) |
+
+> `[AI_SYS]` *"The path of the developer is chosen, not assigned. Keep building."*
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  /shutdown — FOOTER                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════ FOOTER ══════════════════════ -->
 
-```
-[SYSTEM] Session timer reached.
-[LOG]    Closing secure tunnel...
-[FINAL]  "I'm trying to free your mind, Neo.
-          But I can only show you the door.
-          You're the one that has to walk through it."
-                                          — Morpheus
-[LTYLO]  > logout
-[MATRIX] Connection terminated. See you on the other side. 🟢
-```
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+
+`[SYSTEM]` Session complete — `[LOG]` Closing secure tunnel...
+
+`[MATRIX]` *"I'm trying to free your mind, Neo. But I can only show you the door. You're the one that has to walk through it."* — Morpheus
+
+`[LTYLO] > logout` · `[CONNECTION]` Terminated 🟢
+
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:000000,100:000000&stroke=00FF41&strokeWidth=2&section=footer&reversal=true" width="100%"/>
 </div>
 
 <!--
-// ═══════════════════════════════════════════════════
-// EASTER EGG — IF YOU READ THIS IN THE SOURCE CODE:
-// YOU ARE THE ONE.
-// > sudo access --level=root --user=YOU
-// [ACCESS] GRANTED. Welcome to the real world.
-// ═══════════════════════════════════════════════════
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█  EASTER EGG — YOU FOUND THE SOURCE     █
+█  > sudo access --level=root --user=YOU █
+█  [ACCESS] GRANTED.                     █
+█  Welcome to the real world, Neo.       █
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 -->
