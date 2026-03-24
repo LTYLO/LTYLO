@@ -1,194 +1,272 @@
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ██╗  ████████╗██╗   ██╗██╗      ██████╗               -->
-<!-- ██║  ╚══██╔══╝╚██╗ ██╔╝██║     ██╔═══██╗              -->
-<!-- ██║     ██║    ╚████╔╝ ██║     ██║   ██║              -->
-<!-- ██║     ██║     ╚██╔╝  ██║     ██║   ██║              -->
-<!-- ███████╗██║      ██║   ███████╗╚██████╔╝              -->
-<!-- ╚══════╝╚═╝      ╚═╝   ╚══════╝ ╚═════╝               -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!--
+███╗   ███╗ █████╗ ████████╗██████╗ ██╗██╗  ██╗
+████╗ ████║██╔══██╗╚══██╔══╝██╔══██╗██║╚██╗██╔╝
+██╔████╔██║███████║   ██║   ██████╔╝██║ ╚███╔╝
+██║╚██╔╝██║██╔══██║   ██║   ██╔══██╗██║ ██╔██╗
+██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║██║██╔╝ ██╗
+╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
+// SYSTEM: ACTIVE | NODE: LTYLO | ENCRYPTION: ON
+// "There is no spoon." — The Oracle
+// > IF YOU ARE READING THIS... YOU ARE ALREADY IN.
+-->
 
-<!-- HEADER CYBERPUNK -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   /boot — SYSTEM INIT                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=LTYLO&fontSize=80&color=0:8B00FF,100:00F7FF&stroke=00F7FF&strokeWidth=2&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=LTYLO.exe&fontSize=75&color=0:000000,100:000000&stroke=00FF41&strokeWidth=3&fontColor=00FF41&animation=fadeIn&desc=SYSTEM%20ONLINE%20%7C%20ACCESS%20GRANTED&descSize=16&descAlignY=75&descAlign=50" width="100%"/>
 </div>
 
-<!-- TYPING SVG -->
+<!-- TYPING — BOOT SEQUENCE -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=💀+Bienvenido+a+mi+perfil...;🎮+Gamer+%7C+Developer+%7C+Builder;⚡+Full+Stack+Developer+🚀;🇨🇴+Orgullosamente+Colombiano;🧠+Turning+ideas+into+reality..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&width=750&lines=%5BSYSTEM%5D+Initializing+matrix+interface...;%5BBOOT%5D+Loading+kernel+modules...+OK;%5BACCESS%5D+Identity+node+LTYLO+detected;%5BSCAN%5D+Threat+level%3A+NONE+%E2%80%94+Access+GRANTED+%E2%9C%85;%5BMATRIX%5D+Welcome+back%2C+developer.;%3E+whoami+%E2%86%92+Full+Stack+Developer+%F0%9F%9A%80;%3E+location+%E2%86%92+Colombia+%F0%9F%87%A8%F0%9F%87%B4;%3E+status+%E2%86%92+BUILDING+COOL+THINGS..._%3B%5BWARNING%5D+You+are+now+inside+the+Matrix." />
 </div>
 
-<!-- BADGES VISITANTES + ESTADO -->
+<!-- STATUS BADGES -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LTYLO&style=for-the-badge&color=8B00FF&label=👾+VISITAS" />
+  <img src="https://img.shields.io/badge/%5BNODE%5D-LTYLO-00FF41?style=flat-square&logo=matrix&logoColor=00FF41&labelColor=000000" />
   &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&logo=statuspage&logoColor=white" />
+  <img src="https://img.shields.io/badge/%5BSTATUS%5D-ONLINE-00FF41?style=flat-square&logoColor=00FF41&labelColor=000000" />
   &nbsp;
-  <img src="https://img.shields.io/badge/MODO-BEAST-FF003C?style=for-the-badge&logo=gamepad&logoColor=white" />
+  <img src="https://img.shields.io/badge/%5BLEVEL%5D-7%20DEVELOPER-00FF41?style=flat-square&labelColor=000000&color=00FF41" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/%5BENCRYPT%5D-AES--256-00FF41?style=flat-square&labelColor=000000&color=00FF41" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=LTYLO&style=flat-square&color=00FF41&label=%5BSCANS%5D&labelColor=000000" />
 </div>
 
 <br/>
 
 ---
 
-<!-- ABOUT ME ESTILO TERMINAL -->
-<div align="center">
-  <h2>🖥️ <code>~/about-me</code></h2>
-</div>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                 /identity — WHO AM I                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-```bash
-╔══════════════════════════════════════════════════════════╗
-║                    LTYLO — DEVELOPER                     ║
-╠══════════════════════════════════════════════════════════╣
-║  > whoami         LTYLO · Full Stack Developer 🚀        ║
-║  > location       Colombia 🇨🇴                           ║
-║  > status         Building awesome things... ⚡          ║
-║  > passion        Code · Design · Gaming 🎮              ║
-║  > learning       Always leveling up 🧠                  ║
-║  > available      Open to opportunities ✅               ║
-╚══════════════════════════════════════════════════════════╝
+```
+╔══════════════════════════════════════════════════════════════╗
+║  MATRIX OS v3.1 — NODE IDENTITY PROTOCOL                    ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  > boot system................ [██████████] 100% COMPLETE   ║
+║  > decrypt identity........... [██████████] DECRYPTED       ║
+║  > load profile............... [██████████] LOADED          ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  $ whoami                                                    ║
+║  ┌─────────────────────────────────────────────────────┐    ║
+║  │  NODE     : LTYLO                                   │    ║
+║  │  CLASS    : Full Stack Developer 🚀                 │    ║
+║  │  ORIGIN   : Colombia 🇨🇴                            │    ║
+║  │  LEVEL    : 7 — [████████░░] SENIOR UNLOCKING       │    ║
+║  │  STATUS   : ACTIVE — Building the future ⚡         │    ║
+║  │  MISSION  : Turn ideas into code                    │    ║
+║  │  THREAT   : NONE — clearance GRANTED ✅             │    ║
+║  └─────────────────────────────────────────────────────┘    ║
+║                                                              ║
+║  $ cat /etc/motd                                             ║
+║  > "The Matrix has you... but you have the code."           ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-<!-- REDES SOCIALES -->
-<div align="center">
-  <h2>🌐 <code>~/connect</code></h2>
-</div>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--               /connect — NETWORK NODES                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+```
+[NETWORK] Scanning available connection nodes...
+[FOUND]   4 channels detected — establishing links...
+```
 
 <div align="center">
   <a href="https://youtube.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/static/v1?message=%5BCHANNEL%5D+YouTube&logo=youtube&label=&color=00FF41&logoColor=000000&labelColor=000000&style=for-the-badge" height="32"/>
   </a>
   &nbsp;
   <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/static/v1?message=%5BCHANNEL%5D+Instagram&logo=instagram&label=&color=00FF41&logoColor=000000&labelColor=000000&style=for-the-badge" height="32"/>
   </a>
   &nbsp;
   <a href="mailto:tucorreo@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/static/v1?message=%5BCHANNEL%5D+Gmail&logo=gmail&label=&color=00FF41&logoColor=000000&labelColor=000000&style=for-the-badge" height="32"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/static/v1?message=%5BCHANNEL%5D+LinkedIn&logo=linkedin&label=&color=00FF41&logoColor=000000&labelColor=000000&style=for-the-badge" height="32"/>
   </a>
   &nbsp;
   <a href="https://discord.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/static/v1?message=%5BCHANNEL%5D+Discord&logo=discord&label=&color=00FF41&logoColor=000000&labelColor=000000&style=for-the-badge" height="32"/>
   </a>
 </div>
 
----
-
-<!-- TECH STACK -->
-<div align="center">
-  <h2>🛠️ <code>~/tech-stack</code></h2>
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,cs,kotlin,cpp&perline=8" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=docker,firebase,mongodb,mysql,linux,blender,androidstudio,git&perline=8" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=github,vscode,figma,html,css,nextjs,tailwind,redux&perline=8" />
-</div>
+```
+[LINK] All nodes connected successfully.
+```
 
 ---
 
-<!-- GITHUB STATS -->
-<div align="center">
-  <h2>📊 <code>~/stats</code></h2>
-</div>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                /skills — LOAD MODULES                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  $ load skills --verbose                                     ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  [MODULE] Frontend......... JavaScript · React · HTML · CSS ║
+║           LOAD STATUS..... [██████████] 100% ✅             ║
+║                                                              ║
+║  [MODULE] Backend.......... Python · Node.js · C# · C++     ║
+║           LOAD STATUS..... [█████████░] 92%  ✅             ║
+║                                                              ║
+║  [MODULE] Mobile........... Kotlin · Jetpack Compose        ║
+║           LOAD STATUS..... [████████░░] 80%  ✅             ║
+║                                                              ║
+║  [MODULE] DevOps........... Docker · Linux · Git · Firebase ║
+║           LOAD STATUS..... [███████░░░] 75%  🔄             ║
+║                                                              ║
+║  [MODULE] Database......... MongoDB · MySQL                  ║
+║           LOAD STATUS..... [████████░░] 85%  ✅             ║
+║                                                              ║
+║  [MODULE] 3D/Design........ Blender · Figma                 ║
+║           LOAD STATUS..... [██████░░░░] 65%  🔄             ║
+║                                                              ║
+║  [SYSTEM] All critical modules loaded. System READY.        ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LTYLO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8B00FF&text_color=FFFFFF&ring_color=00F7FF" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,cs,kotlin,cpp&theme=dark&perline=8" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,firebase,mongodb,mysql,linux,blender,androidstudio,git&theme=dark&perline=8" />
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                /stats — SYSTEM METRICS                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+```
+[METRICS] Pulling live data from GitHub nodes...
+[DECRYPT] Data stream decrypted — rendering output...
+```
+
+<div align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=LTYLO&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41&ring_color=00FF41&include_all_commits=true&count_private=true" />
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTYLO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=8" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTYLO&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=LTYLO&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=8B00FF&fire=FF003C&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=888888" />
+  <img src="https://streak-stats.demolab.com/?user=LTYLO&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00AA2F&dates=006614&sideNums=00FF41&currStreakNum=00FF41" />
 </div>
 
 ---
 
-<!-- TROFEOS -->
-<div align="center">
-  <h2>🏆 <code>~/trophies</code></h2>
-</div>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--               /trophies — ACHIEVEMENT LOG                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+```
+[SCAN] Loading achievement registry...
+[FOUND] Unlocked nodes detected:
+```
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LTYLO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <h2>📈 <code>~/activity</code></h2>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LTYLO&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=8B00FF&point=FF003C&area=true&area_color=8B00FF" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=LTYLO&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 
 ---
 
-<!-- SNAKE ANIMADA -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--               /activity — SYSTEM LOGS                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+```
+[LOG] Streaming contribution activity...
+[MONITOR] Real-time commit graph — LIVE FEED:
+```
+
 <div align="center">
-  <h2>🐍 <code>~/contributions</code></h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LTYLO&theme=high-contrast&hide_border=true&bg_color=000000&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=003B00" width="95%"/>
 </div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--            /contributions — MATRIX SNAKE                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+```
+[SYSTEM] Rendering contribution matrix...
+[VISUAL] Snake protocol engaged — tracing activity nodes:
+```
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LTYLO/LTYLO/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LTYLO/LTYLO/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake animation" src="https://raw.githubusercontent.com/LTYLO/LTYLO/output/github-contribution-grid-snake-dark.svg"/>
+    <img alt="matrix snake" src="https://raw.githubusercontent.com/LTYLO/LTYLO/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
 
-<details>
-<summary>⚙️ <b>Cómo activar la serpiente (GitHub Actions)</b></summary>
-<br/>
+---
 
-Crea el archivo `.github/workflows/snake.yml` con este contenido:
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--            /mission — CURRENT OBJECTIVES                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
-</details>
+╔══════════════════════════════════════════════════════════════╗
+║  [MISSION CONTROL] — Active objectives                      ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  ► MISSION_01 : Master cloud architecture        [ACTIVE]   ║
+║  ► MISSION_02 : Ship a SaaS product              [ACTIVE]   ║
+║  ► MISSION_03 : Contribute to open source        [ACTIVE]   ║
+║  ► MISSION_04 : Level up in system design        [ACTIVE]   ║
+║  ► MISSION_05 : ???????????????????              [LOCKED]   ║
+║                                                              ║
+║  [AI_SYS] "The path of the developer is chosen,            ║
+║            not assigned. Keep building."                    ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-<!-- QUOTE RANDOM -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  /shutdown — FOOTER                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+```
+[SYSTEM] Session timer reached.
+[LOG]    Closing secure tunnel...
+[FINAL]  "I'm trying to free your mind, Neo.
+          But I can only show you the door.
+          You're the one that has to walk through it."
+                                          — Morpheus
+[LTYLO]  > logout
+[MATRIX] Connection terminated. See you on the other side. 🟢
+```
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:000000,100:000000&stroke=00FF41&strokeWidth=2&section=footer&reversal=true" width="100%"/>
 </div>
 
-<br/>
-
-<!-- FOOTER CYBERPUNK -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:8B00FF,100:00F7FF&section=footer&reversal=true" width="100%"/>
-</div>
+<!--
+// ═══════════════════════════════════════════════════
+// EASTER EGG — IF YOU READ THIS IN THE SOURCE CODE:
+// YOU ARE THE ONE.
+// > sudo access --level=root --user=YOU
+// [ACCESS] GRANTED. Welcome to the real world.
+// ═══════════════════════════════════════════════════
+-->
