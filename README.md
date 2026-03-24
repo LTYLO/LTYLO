@@ -2,7 +2,7 @@
 <!--  NODE ········ LTYLO                                           -->
 <!--  CLASS ······· FULL STACK DEVELOPER                           -->
 <!--  ORIGIN ······ COLOMBIA 🇨🇴                                    -->
-<!--  BUILD ······· FINAL · v6.0                                   -->
+<!--  BUILD ······· FINAL · v7.0                                   -->
 <!-- ============================================================== -->
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░ HEADER ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
@@ -31,18 +31,20 @@
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ PROFILE CARD ░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░ MAIN TABLE (3 columnas) ░░░░░░░░░░░░░░░ -->
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="16">
 <tr>
-<td width="50%" valign="top">
+
+<!-- COLUMNA 1 — PROFILE -->
+<td width="33%" valign="top" align="center">
 
 ### `◈ Profile`
 
-<img src="https://img.shields.io/badge/LTYLO-Full_Stack_Developer-00D4FF?style=for-the-badge&labelColor=050510" /><br/>
+<img src="https://img.shields.io/badge/LTYLO-Full_Stack_Developer-00D4FF?style=for-the-badge&labelColor=050510" /><br/><br/>
 <img src="https://img.shields.io/badge/📍-Colombia_🇨🇴-7B2FBE?style=for-the-badge&labelColor=050510" />
 
-<br/>
+<br/><br/>
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-050510?style=flat-square&logo=python&logoColor=3776AB)
@@ -51,10 +53,7 @@
 
 <br/>
 
-> *I'm LTYLO, a passionate full stack developer*
-> *from Colombia 🇨🇴. I love coding, gaming,*
-> *and 3D. Always building, learning, and*
-> *exploring new tech!*
+> *I'm LTYLO, a passionate full stack developer from Colombia 🇨🇴. I love coding, gaming, and 3D. Always building, learning, and exploring new tech!*
 
 <br/>
 
@@ -62,69 +61,65 @@
 ![](https://img.shields.io/badge/🎮-Gaming-7B2FBE?style=flat-square&labelColor=050510)
 ![](https://img.shields.io/badge/🗿-3D-00D4FF?style=flat-square&labelColor=050510)
 
+<br/>
+
+<img src="https://media.giphy.com/media/A6EASSZkbOs0Cu8Fim/giphy.gif" width="200" height="180" />
+
 </td>
-<td width="50%" valign="middle" align="center">
 
-<img height="220" src="https://i.giphy.com/media/A6EASSZkbOs0Cu8Fim/giphy.gif"/>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ TWO COLUMNS ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<table width="100%" border="0">
-<tr>
-
-<!-- TECH STACK -->
-<td width="50%" valign="top" align="center">
+<!-- COLUMNA 2 — TECH STACK -->
+<td width="33%" valign="top" align="center">
 
 ### `◈ Tech Stack`
 
 <br/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript" />
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react" />
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5" />
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3" />
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python" />
-&nbsp;&nbsp;
+
+<br/><br/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="csharp" />
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45" alt="androidstudio" />
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="45" alt="blender" />
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus" />
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker" />
-&nbsp;&nbsp;
+
+<br/><br/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase" />
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="45" alt="jetpackcompose" />
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="45" alt="kotlin" />
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux" />
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="45" alt="matlab" />
-&nbsp;&nbsp;
+
+<br/><br/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb" />
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql" />
 
 <br/>
 
 </td>
 
-<!-- CONNECT -->
-<td width="50%" valign="top" align="center">
+<!-- COLUMNA 3 — CONNECT -->
+<td width="33%" valign="top" align="center">
 
 ### `◈ Connect`
 
