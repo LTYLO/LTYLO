@@ -1,152 +1,187 @@
-<!-- ################################################################ -->
-<!--   NODE: LTYLO  ·  CLASS: FULL STACK DEV  ·  CITY: COLOMBIA     -->
-<!--   VERSION: 4.0  ·  BUILD: FINAL  ·  STATUS: ONLINE             -->
-<!-- ################################################################ -->
+<!-- ============================================================== -->
+<!--  NODE ········ LTYLO                                           -->
+<!--  CLASS ······· FULL STACK DEVELOPER                           -->
+<!--  ORIGIN ······ COLOMBIA 🇨🇴                                    -->
+<!--  BUILD ······· FINAL · v5.0                                   -->
+<!-- ============================================================== -->
 
-<!-- ══════════════════════════ HEADER ══════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░ HEADER ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=LTYLO&fontSize=95&color=0:0A0A0F,40:0D1B2A,100:0A0A0F&stroke=00D4FF&strokeWidth=2&fontColor=00D4FF&animation=fadeIn&desc=Full+Stack+Developer+·+Colombia+🇨🇴+·+Always+Building&descSize=14&descAlignY=80&descAlign=50&descFontColor=7B2FBE" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=LTYLO&fontSize=100&color=0:050510,40:0A0F2E,100:050510&stroke=00D4FF&strokeWidth=2&fontColor=00D4FF&animation=fadeIn&desc=Full+Stack+Developer+—+Building+Digital+Systems&descSize=15&descAlignY=80&descAlign=50&descFontColor=7B7FBE" width="100%"/>
 </div>
 
+<!-- TYPING -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=680&lines=⚡+Full+Stack+Developer;🎮+React+·+Python+·+Kotlin+·+C%23;🔵+Building+from+Colombia+🇨🇴;🚀+Open+to+new+opportunities;💻+Always+leveling+up..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=⚡+Full+Stack+Developer;🎮+React+·+Python+·+Kotlin+·+C%23;🇨🇴+Building+from+Colombia;🚀+Always+shipping+something+new;💙+Open+to+opportunities" />
 </div>
 
+<!-- STATUS ROW -->
 <div align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00D4FF?style=flat-square&labelColor=0A0A0F" />
+  <img src="https://img.shields.io/badge/●_ONLINE-Colombia_🇨🇴-00D4FF?style=flat-square&labelColor=050510" />
   &nbsp;
-  <img src="https://img.shields.io/badge/LEVEL-7_DEV-7B2FBE?style=flat-square&labelColor=0A0A0F" />
+  <img src="https://img.shields.io/badge/👥-12_Followers-7B2FBE?style=flat-square&labelColor=050510" />
   &nbsp;
-  <img src="https://img.shields.io/badge/OPEN_TO-WORK-00D4FF?style=flat-square&labelColor=0A0A0F" />
+  <img src="https://img.shields.io/badge/⏱-3+_Years-00D4FF?style=flat-square&labelColor=050510" />
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=LTYLO&style=flat-square&color=7B2FBE&label=VIEWS&labelColor=0A0A0F" />
+  <img src="https://komarev.com/ghpvc/?username=LTYLO&style=flat-square&color=7B2FBE&label=👁+Views&labelColor=050510" />
 </div>
 
 <br/>
 
 ---
 
-<!-- ══════════════════════ IDENTITY ════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░ PROFILE CARD ░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-<img align="right" height="210" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNyeWJnMGF6OXI4amxzdGdpcHc4a2Qxd3pjN2Zha3hjc3BvM2N3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A6EASSZkbOs0Cu8Fim/giphy.gif"/>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="55%" valign="top">
 
-**`◈ whoami`**
+### `◈ Profile`
 
-![](https://img.shields.io/badge/LTYLO-Full_Stack_Developer_🚀-00D4FF?style=flat-square&labelColor=0A0A0F)
-![](https://img.shields.io/badge/FROM-Colombia_🇨🇴-7B2FBE?style=flat-square&labelColor=0A0A0F)
-![](https://img.shields.io/badge/LOVES-Code_·_Gaming_·_3D-00D4FF?style=flat-square&labelColor=0A0A0F)
-![](https://img.shields.io/badge/STACK-React_·_Python_·_Kotlin-7B2FBE?style=flat-square&labelColor=0A0A0F)
-
-<br/>
-
-**`◈ current_focus`**
-
-- 🔵 &nbsp;Mastering **cloud architecture** & system design
-- 🟣 &nbsp;Shipping a **SaaS product** from scratch
-- ⚡ &nbsp;Deep diving into **open source**
-- 🚀 &nbsp;Leveling up **mobile dev** with Kotlin
+<img src="https://img.shields.io/badge/LTYLO-Full_Stack_Developer-00D4FF?style=for-the-badge&labelColor=050510" /><br/>
+<img src="https://img.shields.io/badge/📍-Colombia_🇨🇴-7B2FBE?style=for-the-badge&labelColor=050510" />
 
 <br/>
 
-> *"The best way to predict the future is to build it."*
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-050510?style=flat-square&logo=python&logoColor=3776AB)
+![Kotlin](https://img.shields.io/badge/Kotlin-050510?style=flat-square&logo=kotlin&logoColor=7F52FF)
+![C#](https://img.shields.io/badge/C%23-050510?style=flat-square&logo=csharp&logoColor=239120)
 
-<br clear="right"/>
+<br/>
+
+> *I'm LTYLO, a passionate full stack developer*
+> *from Colombia 🇨🇴. I love coding, gaming,*
+> *and 3D. Always building, learning, and*
+> *exploring new tech!*
+
+<br/>
+
+![](https://img.shields.io/badge/</\>-Coding-00D4FF?style=flat-square&labelColor=050510)
+![](https://img.shields.io/badge/🎮-Gaming-7B2FBE?style=flat-square&labelColor=050510)
+![](https://img.shields.io/badge/🗿-3D-00D4FF?style=flat-square&labelColor=050510)
+
+</td>
+<td width="45%" valign="top" align="right">
+
+<img height="220" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNyeWJnMGF6OXI4amxzdGdpcHc4a2Qxd3pjN2Zha3hjc3BvM2N3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A6EASSZkbOs0Cu8Fim/giphy.gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ══════════════════════ CONNECT ══════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░ TWO COLUMNS ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-**`◈ links`**
+<table width="100%" border="0">
+<tr>
 
-<div align="left">
-  <a href="https://youtube.com/" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-0A0A0F?style=for-the-badge&logo=youtube&logoColor=FF0000" height="30"/>
-  </a>
-  <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0A0A0F?style=for-the-badge&logo=instagram&logoColor=E4405F" height="30"/>
-  </a>
-  <a href="mailto:tucorreo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0A0A0F?style=for-the-badge&logo=gmail&logoColor=D14836" height="30"/>
-  </a>
-  <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=0077B5" height="30"/>
-  </a>
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-0A0A0F?style=for-the-badge&logo=discord&logoColor=7289DA" height="30"/>
-  </a>
-</div>
+<!-- TECH STACK -->
+<td width="48%" valign="top">
+
+### `◈ Tech Stack`
+
+![React](https://img.shields.io/badge/React-050510?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-050510?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-050510?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-050510?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Tailwind](https://img.shields.io/badge/Tailwind-050510?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![HTML](https://img.shields.io/badge/HTML-050510?style=flat-square&logo=html5&logoColor=E34F26)
+![Python](https://img.shields.io/badge/Python-050510?style=flat-square&logo=python&logoColor=3776AB)
+![Node.js](https://img.shields.io/badge/Node.js-050510?style=flat-square&logo=nodedotjs&logoColor=339933)
+![C#](https://img.shields.io/badge/C%23-050510?style=flat-square&logo=csharp&logoColor=239120)
+![Kotlin](https://img.shields.io/badge/Kotlin-050510?style=flat-square&logo=kotlin&logoColor=7F52FF)
+![C++](https://img.shields.io/badge/C++-050510?style=flat-square&logo=cplusplus&logoColor=00599C)
+![Docker](https://img.shields.io/badge/Docker-050510?style=flat-square&logo=docker&logoColor=2496ED)
+![Firebase](https://img.shields.io/badge/Firebase-050510?style=flat-square&logo=firebase&logoColor=FFCA28)
+![MongoDB](https://img.shields.io/badge/MongoDB-050510?style=flat-square&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-050510?style=flat-square&logo=mysql&logoColor=4479A1)
+![Linux](https://img.shields.io/badge/Linux-050510?style=flat-square&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-050510?style=flat-square&logo=git&logoColor=F05032)
+![Blender](https://img.shields.io/badge/Blender-050510?style=flat-square&logo=blender&logoColor=E87D0D)
+
+</td>
+
+<!-- CURRENT FOCUS -->
+<td width="4%"></td>
+<td width="48%" valign="top">
+
+### `◈ Current Focus`
+
+**☁️ Mastering Cloud Architecture**
+<br/><sub>Learning advanced cloud system design</sub>
+
+<br/>
+
+**🚀 Shipping a SaaS Product**
+<br/><sub>Building a SaaS platform from scratch</sub>
+
+<br/>
+
+**🔓 Deep Diving into Open Source**
+<br/><sub>Exploring and contributing to open source</sub>
+
+<br/>
+
+**📱 Leveling Up Mobile Dev with Kotlin**
+<br/><sub>Improving mobile development skills</sub>
+
+<br/>
+
+### `◈ Connect`
+
+<a href="https://youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-050510?style=flat-square&logo=youtube&logoColor=FF0000" /></a>
+<a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-050510?style=flat-square&logo=instagram&logoColor=E4405F" /></a>
+<a href="mailto:tucorreo@gmail.com"><img src="https://img.shields.io/badge/Gmail-050510?style=flat-square&logo=gmail&logoColor=D14836" /></a>
+<a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-050510?style=flat-square&logo=linkedin&logoColor=0077B5" /></a>
+<a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-050510?style=flat-square&logo=discord&logoColor=7289DA" /></a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ══════════════════════ TECH STACK ══════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░ STATS ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-**`◈ tech_stack`**
+### `◈ Stats`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind&theme=dark&perline=7" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=python,nodejs,cs,kotlin,cpp,firebase&theme=dark&perline=6" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,mongodb,mysql,blender,androidstudio&theme=dark&perline=8" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=LTYLO&show_icons=true&hide_border=true&bg_color=050510&title_color=00D4FF&icon_color=7B2FBE&text_color=7B7FBE&ring_color=00D4FF&include_all_commits=true&count_private=true" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTYLO&layout=donut&hide_border=true&bg_color=050510&title_color=00D4FF&text_color=7B7FBE&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=LTYLO&hide_border=true&background=050510&stroke=00D4FF&ring=7B2FBE&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=7B7FBE&dates=444466&sideNums=00D4FF&currStreakNum=7B2FBE" />
 </div>
 
 ---
 
-<!-- ══════════════════════ STATS ═══════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░ WAKATIME ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-**`◈ stats`**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LTYLO&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=00D4FF&icon_color=7B2FBE&text_color=888888&ring_color=00D4FF&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTYLO&layout=donut&hide_border=true&bg_color=0A0A0F&title_color=00D4FF&text_color=888888&langs_count=8" />
-</div>
+### `◈ Coding Time`
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=LTYLO&hide_border=true&background=0A0A0F&stroke=00D4FF&ring=7B2FBE&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=888888&dates=444444&sideNums=00D4FF&currStreakNum=7B2FBE" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LTYLO&hide_border=true&bg_color=050510&title_color=00D4FF&text_color=7B7FBE&icon_color=7B2FBE&layout=compact&langs_count=8" />
 </div>
 
 ---
 
-<!-- ══════════════════════ WAKATIME ════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░ ACTIVITY ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-**`◈ coding_time`**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LTYLO&hide_border=true&bg_color=0A0A0F&title_color=00D4FF&text_color=888888&icon_color=7B2FBE&layout=compact&langs_count=8" />
-</div>
-
-> ⚡ *Para activar WakaTime stats: instala la extensión [WakaTime](https://wakatime.com) en VS Code y conecta tu cuenta con el mismo username.*
-
----
-
-<!-- ══════════════════════ PINNED PROJECTS ═════════════════════════ -->
-
-**`◈ featured_projects`**
+### `◈ Activity`
 
 <div align="center">
-  <a href="https://github.com/LTYLO/LTYLO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LTYLO&repo=LTYLO&hide_border=true&bg_color=0A0A0F&title_color=00D4FF&icon_color=7B2FBE&text_color=888888" />
-  </a>
-</div>
-
-> 📌 *Reemplaza `repo=LTYLO` con el nombre de tus mejores repositorios para mostrarlos aquí. Puedes duplicar el bloque para mostrar hasta 6 proyectos.*
-
----
-
-<!-- ══════════════════════ ACTIVITY GRAPH ═════════════════════════ -->
-
-**`◈ activity`**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LTYLO&theme=react-dark&hide_border=true&bg_color=0A0A0F&color=00D4FF&line=7B2FBE&point=00D4FF&area=true&area_color=7B2FBE" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LTYLO&theme=react-dark&hide_border=true&bg_color=050510&color=00D4FF&line=7B2FBE&point=00D4FF&area=true&area_color=7B2FBE" width="95%"/>
 </div>
 
 ---
 
-<!-- ══════════════════════ SNAKE ═══════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░ SNAKE ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-**`◈ contribution_grid`**
+### `◈ Contribution Grid`
 
 <div align="center">
   <picture>
@@ -158,45 +193,21 @@
 
 ---
 
-<!-- ══════════════════════ SKYLINE 3D ══════════════════════════════ -->
-
-**`◈ github_skyline_3D`**
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-
-| AÑO | MODELO 3D |
-|-----|-----------|
-| 2024 | [![Skyline 2024](https://img.shields.io/badge/VIEW_3D_MODEL-2024-00D4FF?style=for-the-badge&labelColor=0A0A0F&logo=github)](https://skyline.github.com/LTYLO/2024) |
-| 2023 | [![Skyline 2023](https://img.shields.io/badge/VIEW_3D_MODEL-2023-7B2FBE?style=for-the-badge&labelColor=0A0A0F&logo=github)](https://skyline.github.com/LTYLO/2023) |
-
-</div>
-
-> 🗺️ *GitHub Skyline genera un modelo 3D imprimible de tus contribuciones de cada año. Visita los links para verlo y descargarlo como `.stl`*
-
----
-
-<!-- ══════════════════════ FOOTER ══════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>⚡ Built with <code>01001100 01001111 01010110 01000101</code> from Colombia 🇨🇴 &nbsp;·&nbsp; LTYLO © 2025</sub>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0A0A0F,50:0D1B2A,100:0A0A0F&stroke=7B2FBE&strokeWidth=2&section=footer" width="100%"/>
+  <br/>
+  <sub><i>"The best way to predict the future is to build it."</i></sub>
+  <br/><br/>
+  <sub>⚡ <code>01001100 01001111 01010110 01000101</code> · LTYLO © 2025 · Colombia 🇨🇴</sub>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:050510,60:0A0F2E,100:050510&stroke=7B2FBE&strokeWidth=2&section=footer" width="100%"/>
 </div>
 
 <!--
-  ╔════════════════════════════════════════════╗
-  ║  EASTER EGG — YOU READ THE SOURCE          ║
-  ║  Binary above = "LOVE"                     ║
-  ║  You're a real one. Welcome to the grid 🔵 ║
-  ╚════════════════════════════════════════════╝
+  ╔══════════════════════════════════════════╗
+  ║  EASTER EGG — YOU READ THE SOURCE        ║
+  ║  Binary above decodes to: "LOVE"         ║
+  ║  You're a real one. Keep building. 🔵    ║
+  ╚══════════════════════════════════════════╝
 -->
